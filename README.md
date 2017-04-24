@@ -1,1 +1,1 @@
-# Inventario_con_listas_simples_enlazadas
+"# Inventario-listas-enlazadas-simples-y-ordenadas" 
